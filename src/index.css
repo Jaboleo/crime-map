@@ -1,0 +1,29 @@
+
+.App {
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif;
+  width: max-content;
+  margin: 0 auto;
+}
+p{
+  text-decoration: underline;
+}
+.leaflet-container{
+  width: 90%;
+  height: 300px;
+  margin: 10px auto;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.table-header{
+  display: inline-block; 
+font-weight: bold;
+}
+
+.active{
+  background-color:  rgb(174, 175, 177);
+  padding-bottom: 15px;
+  margin-bottom: 5px;
+}
