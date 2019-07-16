@@ -7,4 +7,4 @@ Crime records .csv file in this repo is just a fragment of the original one. I m
 ## Online version of the app
 **Check this project deployed on glitch.com : https://jaboleo-crime-map.glitch.me/**
 
-Last time I checked I couldn't see any files in the glitch project. Propably glitch having some issues with deploying a project directly from the github repo. For the time being to see the source code you need to visit https://github.com/Jaboleo/crime-map.
+Last time I checked I couldn't see any files in the glitch project. Propably glitch is having some issues with deploying a project directly from the github repo. For the time being to see the source code you need to visit https://github.com/Jaboleo/crime-map.
